@@ -6,13 +6,13 @@
 //  Copyright (c) 2015 Patrik Vaberer. All rights reserved.
 //
 
-#import "AnimatorModal.h"
+#import "ModalAnimator.h"
 
-@interface AnimatorModal()
+@interface ModalAnimator()
 @property BOOL show;
 
 @end
-@implementation AnimatorModal
+@implementation ModalAnimator
 
 - (instancetype)initWithShow:(BOOL)show {
     

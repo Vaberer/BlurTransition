@@ -8,6 +8,6 @@
 
 #import <Foundation/Foundation.h>
 #import <UIKit/UIKit.h>
-@interface AnimatorModal : NSObject<UIViewControllerAnimatedTransitioning>
+@interface ModalAnimator : NSObject<UIViewControllerAnimatedTransitioning>
 - (instancetype)initWithShow:(BOOL)show;
 @end

@@ -20,7 +20,7 @@
 		4EE3ED771ACEF3DB002CDBD0 /* PushAnimator.m in Sources */ = {isa = PBXBuildFile; fileRef = 4EE3ED761ACEF3DB002CDBD0 /* PushAnimator.m */; };
 		4EE3ED7A1ACEF45F002CDBD0 /* PopAnimator.m in Sources */ = {isa = PBXBuildFile; fileRef = 4EE3ED791ACEF45F002CDBD0 /* PopAnimator.m */; };
 		4EF776F61AD06DA4003C70C4 /* ModalVC.m in Sources */ = {isa = PBXBuildFile; fileRef = 4EF776F51AD06DA4003C70C4 /* ModalVC.m */; };
-		4EF776F91AD06E8E003C70C4 /* AnimatorModal.m in Sources */ = {isa = PBXBuildFile; fileRef = 4EF776F81AD06E8E003C70C4 /* AnimatorModal.m */; };
+		4EF776F91AD06E8E003C70C4 /* ModalAnimator.m in Sources */ = {isa = PBXBuildFile; fileRef = 4EF776F81AD06E8E003C70C4 /* ModalAnimator.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -58,8 +58,8 @@
 		4EE3ED791ACEF45F002CDBD0 /* PopAnimator.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = PopAnimator.m; sourceTree = "<group>"; };
 		4EF776F41AD06DA4003C70C4 /* ModalVC.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ModalVC.h; sourceTree = "<group>"; };
 		4EF776F51AD06DA4003C70C4 /* ModalVC.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = ModalVC.m; sourceTree = "<group>"; };
-		4EF776F71AD06E8E003C70C4 /* AnimatorModal.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = AnimatorModal.h; sourceTree = "<group>"; };
-		4EF776F81AD06E8E003C70C4 /* AnimatorModal.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = AnimatorModal.m; sourceTree = "<group>"; };
+		4EF776F71AD06E8E003C70C4 /* ModalAnimator.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ModalAnimator.h; sourceTree = "<group>"; };
+		4EF776F81AD06E8E003C70C4 /* ModalAnimator.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = ModalAnimator.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -114,8 +114,8 @@
 				4EE3ED531ACED114002CDBD0 /* Main.storyboard */,
 				4EF776F41AD06DA4003C70C4 /* ModalVC.h */,
 				4EF776F51AD06DA4003C70C4 /* ModalVC.m */,
-				4EF776F71AD06E8E003C70C4 /* AnimatorModal.h */,
-				4EF776F81AD06E8E003C70C4 /* AnimatorModal.m */,
+				4EF776F71AD06E8E003C70C4 /* ModalAnimator.h */,
+				4EF776F81AD06E8E003C70C4 /* ModalAnimator.m */,
 				4EE3ED6F1ACEE3ED002CDBD0 /* FirstVC.h */,
 				4EE3ED701ACEE3ED002CDBD0 /* FirstVC.m */,
 				4EE3ED721ACEE492002CDBD0 /* SecondVC.h */,
@@ -254,7 +254,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				4E70933A1ACF123A007A8897 /* SecondVC.m in Sources */,
-				4EF776F91AD06E8E003C70C4 /* AnimatorModal.m in Sources */,
+				4EF776F91AD06E8E003C70C4 /* ModalAnimator.m in Sources */,
 				4EE3ED521ACED114002CDBD0 /* ViewController.m in Sources */,
 				4EF776F61AD06DA4003C70C4 /* ModalVC.m in Sources */,
 				4EE3ED711ACEE3ED002CDBD0 /* FirstVC.m in Sources */,
