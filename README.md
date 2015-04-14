@@ -1,5 +1,5 @@
 # BlurTransition
-Demonstrating UIVisualEffects crated via Storyboard and custom transitions
+Demonstrating UIVisualEffects created via Storyboard and custom transitions
 
 
 <p align="center">
