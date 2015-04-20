@@ -15,10 +15,10 @@ All UI Elements are made only in Storyboard. Works for all devices and Landscape
 <h2>Custom Transitions</h2>
 
 
-Custom Transitions do not use frames to move elements but only **CONSTRAINTS**. Solution for projects which use constraints, so it works in landscape mode without any problems, too.
+Custom Transitions do not use frames to move elements but only CONSTRAINTS**. Solution for projects which use constraints, so it works in landscape mode without any issues, too.
 
 For Navigation custom transitions, impelemnt in FirstVC <code>UINavigationControllerDelegate, UIViewControllerTransitioningDelegate</code> protocols.
-Custom Objects for Transitions are <code>PushAnimator, PopAnimator</code> and for modal transition <code>ModalAnimator</code.
+Custom Objects for Transitions are <code>PushAnimator, PopAnimator</code> and for modal transition <code>ModalAnimator</code>.
 
 <h2>Author</h2>
 
