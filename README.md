@@ -1,4 +1,10 @@
 # BlurTransition
+![Font Awesome Swift](https://github.com/Vaberer/Font-Awesome-Swift/blob/master/resources/opensource_matters.png)
+
+Follow me: [@vaberer](https://twitter.com/vaberer)
+
+I like &#9733;. Do not forget to &#9733; this project.
+
 Demonstrating UIVisualEffects created via Storyboard and custom transitions
 
 
