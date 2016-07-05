@@ -26,7 +26,7 @@
     
     CGRect endPos = toViewController.view.frame;
     
-    CGRect startPos = toViewController.view.frame;
+    CGRect startPos = fromViewController.view.frame;
     startPos.origin.x =  - startPos.size.width;
     toViewController.view.frame = startPos;
     
